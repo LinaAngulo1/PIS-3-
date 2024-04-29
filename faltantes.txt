@@ -1,0 +1,71 @@
+Archivos faltantes en sub-00033: segmento_1.nii.gz
+Archivos faltantes en sub-00170: segmento_1.nii.gz
+Archivos faltantes en sub-00171: segmento_1.nii.gz
+Archivos faltantes en sub-00218: segmento_1.nii.gz
+Archivos faltantes en sub-00243: segmento_1.nii.gz
+Archivos faltantes en sub-00270: segmento_1.nii.gz
+Archivos faltantes en sub-00380: segmento_1.nii.gz
+Archivos faltantes en sub-00412: segmento_1.nii.gz
+Archivos faltantes en sub-00485: segmento_1.nii.gz
+Archivos faltantes en sub-00540: segmento_1.nii.gz
+Archivos faltantes en sub-00621: segmento_1.nii.gz
+Archivos faltantes en sub-00668: segmento_1.nii.gz
+Archivos faltantes en sub-00684: segmento_1.nii.gz
+Archivos faltantes en sub-00731: segmento_1.nii.gz
+Archivos faltantes en sub-00735: segmento_1.nii.gz
+Archivos faltantes en sub-00753: segmento_1.nii.gz
+Archivos faltantes en sub-01034: segmento_1.nii.gz
+Archivos faltantes en sub-01075: segmento_1.nii.gz
+Archivos faltantes en sub-01077: segmento_1.nii.gz
+Archivos faltantes en sub-01159: segmento_1.nii.gz
+Archivos faltantes en sub-01179: segmento_1.nii.gz, segmento_4.nii.gz
+Archivos faltantes en sub-01186: segmento_1.nii.gz
+Archivos faltantes en sub-01255: segmento_1.nii.gz
+Archivos faltantes en sub-01308: segmento_1.nii.gz
+Archivos faltantes en sub-01350: segmento_1.nii.gz, segmento_4.nii.gz
+Archivos faltantes en sub-01365: segmento_1.nii.gz
+Archivos faltantes en sub-01395: segmento_1.nii.gz
+Archivos faltantes en sub-01433: segmento_4.nii.gz
+Archivos faltantes en sub-01434: segmento_4.nii.gz
+Archivos faltantes en sub-01435: segmento_4.nii.gz
+Archivos faltantes en sub-01436: segmento_4.nii.gz
+Archivos faltantes en sub-01437: segmento_4.nii.gz
+Archivos faltantes en sub-01439: segmento_4.nii.gz
+Archivos faltantes en sub-01440: segmento_4.nii.gz
+Archivos faltantes en sub-01477: segmento_4.nii.gz
+Archivos faltantes en sub-01480: segmento_4.nii.gz
+Archivos faltantes en sub-01483: segmento_4.nii.gz
+Archivos faltantes en sub-01484: segmento_4.nii.gz
+Archivos faltantes en sub-01486: segmento_4.nii.gz
+Archivos faltantes en sub-01491: segmento_4.nii.gz
+Archivos faltantes en sub-01494: segmento_4.nii.gz
+Archivos faltantes en sub-01499: segmento_4.nii.gz
+Archivos faltantes en sub-01502: segmento_4.nii.gz
+Archivos faltantes en sub-01509: segmento_4.nii.gz
+Archivos faltantes en sub-01510: segmento_4.nii.gz
+Archivos faltantes en sub-01511: segmento_4.nii.gz
+Archivos faltantes en sub-01515: segmento_4.nii.gz
+Archivos faltantes en sub-01517: segmento_4.nii.gz
+Archivos faltantes en sub-01524: segmento_4.nii.gz
+Archivos faltantes en sub-01526: segmento_4.nii.gz
+Archivos faltantes en sub-01529: segmento_4.nii.gz
+Archivos faltantes en sub-01531: segmento_2.nii.gz
+Archivos faltantes en sub-01534: segmento_4.nii.gz
+Archivos faltantes en sub-01535: segmento_4.nii.gz
+Archivos faltantes en sub-01551: segmento_1.nii.gz, segmento_4.nii.gz
+Archivos faltantes en sub-01555: segmento_1.nii.gz
+Archivos faltantes en sub-01558: segmento_1.nii.gz, segmento_4.nii.gz
+Archivos faltantes en sub-01559: segmento_1.nii.gz
+Archivos faltantes en sub-01560: segmento_1.nii.gz
+Archivos faltantes en sub-01591: segmento_1.nii.gz
+Archivos faltantes en sub-01594: segmento_1.nii.gz
+Archivos faltantes en sub-01610: segmento_1.nii.gz
+Archivos faltantes en sub-01615: segmento_1.nii.gz
+Archivos faltantes en sub-01616: segmento_1.nii.gz
+Archivos faltantes en sub-01620: segmento_1.nii.gz
+Archivos faltantes en sub-01624: segmento_1.nii.gz, segmento_4.nii.gz
+Archivos faltantes en sub-01637: segmento_1.nii.gz, segmento_4.nii.gz
+Archivos faltantes en sub-01644: segmento_1.nii.gz
+Archivos faltantes en sub-01646: segmento_1.nii.gz
+Archivos faltantes en sub-01656: segmento_1.nii.gz
+Archivos faltantes en sub-01666: segmento_4.nii.gz
